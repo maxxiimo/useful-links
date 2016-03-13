@@ -1,4 +1,4 @@
-## Mobile Solutions Roundup
+## Rails Mobile Solutions Roundup
 
 To get started, if you're not sure where to begin or as a review, take a look at this round up of mobile solutions:
 
