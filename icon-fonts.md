@@ -20,7 +20,7 @@ A few references that may interest you, or in the very least are good to have ha
 [Icon Font Support]: http://blog.kaelig.fr/post/33373448491/testing-font-face-support-on-mobile-and-tablet
 [Big List]: http://css-tricks.com/flat-icons-icon-fonts/
 
-## Image Based Icons
+### Image Based Icons
 
 This is pretty dated, but if you're looking why not start here.
 
