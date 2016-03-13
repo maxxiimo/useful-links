@@ -1,5 +1,7 @@
 ## Placeholder Services
 
+SUMMARY: A roundup of Lorem Ipsum and image placeholder services.
+
 Here are some Rails Gems for creating Lorem Ipsum placeholders:
 
 - [The Ruby Toolbox - Lorem Ipsum][Toolbox 1]
