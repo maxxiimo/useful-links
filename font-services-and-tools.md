@@ -1,44 +1,38 @@
 ## Font Services and Tools
 
-SUMMARY: A jackpot listing of font services and tools to help you deliver a great typographic experience.
-
-The font services below are listed in alphabetical order, some are free and others subscription-based, but together they represent what I consider be the best font services out there.
-
-The tools I've listed, if needed, will help you deliver a superior typographic experience for your end-users.
+Font services and tools to help you deliver a great typographic experience.
 
 #### Services
+
+The font services below are listed in alphabetical order, some are free and others subscription-based.
 
 1. [Font Squirrel][]
 
    > Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
 
-2. [Fontdeck][]
-
-   > Maintain your distinct brand online without resorting to time-consuming hacks. Use real text with professional typefaces optimised for the web.
-
-3. [Fontspring][]
+2. [Fontspring][]
 
    > Font Licensing Doesn’t Have To Suck - Fontspring is a unique font license distributor. Our goal is to make buying fonts easy.
 
-4. [Google Web Fonts][]
+3. [Google Web Fonts][]
 
    > Google Web Fonts makes it quick and easy for everyone to use web fonts, including professional designers and developers. We believe that everyone should be able to bring quality typography to their web pages and applications.
+
+4. [MyFonts][]
+
+   > Fonts for Print, Products & Screens.
 
 5. [Typekit][]
 
    > This will change the way you design websites. Add a line of code to your pages and choose from hundreds of web fonts. Simple, bulletproof, standards compliant, accessible, and totally legal.
 
-6. [WebINK][]
-
-   > The WebINK service lets you put pro-quality fonts on your website. And we deliver these fonts to every visitor's browser in an instant.
-
 6. [YouWorkForThem][]
 
    > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
 
-[YouWorkForThem]: https://www.youworkforthem.com/
-
 ### Tools
+
+The tools I've listed, if needed, will help you deliver a superior typographic experience for your end-users.
 
 1.  [Lettering.JS][]
 
@@ -99,11 +93,11 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
 
 [Font Squirrel]:        http://www.fontsquirrel.com/
-[Fontdeck]:             http://fontdeck.com/
 [Fontspring]:           http://www.fontspring.com/
 [Google Web Fonts]:     http://www.google.com/webfonts#
+[MyFonts]:              http://fontdeck.com/
 [Typekit]:              https://typekit.com/
-[WebINK]:               http://www.webink.com/
+[YouWorkForThem]:       https://www.youworkforthem.com/
 
 [Lettering.JS]:         http://letteringjs.com/
 [FitText.js]:           http://fittextjs.com/
