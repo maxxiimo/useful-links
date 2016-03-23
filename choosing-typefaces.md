@@ -4,6 +4,20 @@ SUMMARY: Choosing typeface articles and grear advice from Jason Santa Maria on c
 
 The following is designed to help you choose your typefaces. Here are some articles, and an excellent transcript from a presentation by Jason Santa Maria.
 
+Inspirational:
+
+[Open Foundry][]
+
+> A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
+
+[Open Foundry]: http://open-foundry.com/hot30
+
+[Typewolfe][]
+
+> What's trending in type.
+
+[Typewolfe]: https://www.typewolf.com/
+
 #### Choosing Typeface Articles
 
 1.  *12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
@@ -14,11 +28,27 @@ The following is designed to help you choose your typefaces. Here are some artic
 
 4.  *09/26/12* - [Make a Statement with Type][Type Statement]
 
+5.  *09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
+
+[Selecting Typefaces]: http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/
+
 Mobile
 
-5.  *10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
+1.  *10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
 
-6.  *11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
+2.  *11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
+
+#### Typeface Examples
+
+1.  [Web Design Ledger] search for "fonts"
+
+[Web Design Ledger]: http://webdesignledger.com/?s=fonts
+
+2.  [Webdesigner Depot][] search for "fonts"
+
+[Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
+
+
 
 #### Jason Santa Maria On Web Typography
 

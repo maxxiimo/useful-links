@@ -1,4 +1,4 @@
-## Font Stack Roundup
+## Font Stacks
 
 SUMMARY: Different Web safe fonts, font stack combinations and fallbacks, typeface pairings, mobile fonts and typography classifications and definitions.
 
@@ -16,7 +16,7 @@ Here you will find recommendations for:
 
 5.  Font classifications and definitions.
 
-### Font Stack Roundup
+### Roundup
 
 1.  *06/26/08* - [Better CSS Font Stacks][Better Stacks]
 
@@ -119,6 +119,12 @@ Here you will find recommendations for:
 9.  [Type Genius][]
 
     > Find the perfect font combo for your next project.
+
+9.  *02/12/16* - [Choosing and pairing typefaces for cookbooks][Cookbook Pairing]
+
+    > There are many ways of setting up typographic systems, and we learned early on that choosing and pairing typefaces can be compared to the classical approach to cooking.
+
+[Cookbook Pairing]: http://blog.typekit.com/2016/02/12/choosing-and-pairing-typefaces-for-cookbooks/
 
 #### Mobile
 

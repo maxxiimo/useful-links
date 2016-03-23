@@ -14,43 +14,7 @@ Of the sites, there is one site that stands above the rest and belongs to no sin
 
     > Awwwards are the awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
-1.  [Design Meltdown][]
-
-    > In this reincarnation of DMD I seek two main goals. First, to get back to the roots of DMD and publish epic amounts of beautiful work. Second, to embrace the user via a user-centered design methodology that packs the most value as possible into the site.
-
-2.  [Favourite Website Awards (FWA)][FWA]
-
-    >  FWA stands for Favourite Website Awards, an industry recognised internet award program and inspirational portal, established in May 2000.
-
-4.  [Line25][]
-
-    > Line25 Sites of the Week is a weekly roundup of the most outstanding website designs that I stumble across during my every day browsing.
-
-3.  [One Page Love][]
-
-    > One Page Love showcases the best one page website designs on the internet.
-
-3.  [One Page Mania][]
-
-    > One Page Mania is a review showcase of only the best One Page Websites from around the web.
-
-6.  [siteInspire][]
-
-    > siteInspire is showcase and CSS gallery featuring the best web design today.
-
-5.  [The Inspiration Stream][]
-
-    > A meticulously curated place of response, a wellspring of INSPIRATION
-
-5.  [Pattern Tap][]
-
-    > ...It's a living classroom, where designers learn what is working well on the Web and why.
-
-7.  [UI Patterns][]
-
-    > User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.
-
-8.  [Codrops][]
+2.  [Codrops][]
 
     > Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
@@ -59,6 +23,48 @@ Of the sites, there is one site that stands above the rest and belongs to no sin
     - [Make a Statement with Type][Codrops 2]
     - [Creative Background Styles and Trends in Web Design][Codrops 3]
     - [Dashboard Design Elements for the Win][Codrops 4]
+
+3.  [Design Meltdown][]
+
+    > In this reincarnation of DMD I seek two main goals. First, to get back to the roots of DMD and publish epic amounts of beautiful work. Second, to embrace the user via a user-centered design methodology that packs the most value as possible into the site.
+
+4.  [Favourite Website Awards (FWA)][FWA]
+
+    >  FWA stands for Favourite Website Awards, an industry recognised internet award program and inspirational portal, established in May 2000.
+
+5.  [Line25][]
+
+    > Line25 Sites of the Week is a weekly roundup of the most outstanding website designs that I stumble across during my every day browsing.
+
+6.  [One Page Love][]
+
+    > One Page Love showcases the best one page website designs on the internet.
+
+7.  [One Page Mania][]
+
+    > One Page Mania is a review showcase of only the best One Page Websites from around the web.
+
+8.  [Pattern Tap][]
+
+    > ...It's a living classroom, where designers learn what is working well on the Web and why.
+
+9.  [siteInspire][]
+
+    > siteInspire is showcase and CSS gallery featuring the best web design today.
+
+10. [The Inspiration Stream][]
+
+    > A meticulously curated place of response, a wellspring of INSPIRATION
+
+11. [UI Patterns][]
+
+    > User Interface Design patterns are recurring solutions that solve common design problems. Design patterns are standard reference points for the experienced user interface designer.
+
+12. [Web Design Tutorials > Inspiration][Envato Tuts]
+
+    > More than 20,750 Free How-to Tutorials, Inspiration and Videos to help you learn. Updated daily.
+
+[Envato Tuts]: http://webdesign.tutsplus.com/categories/inspiration
 
 #### Mobile
 
