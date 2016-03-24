@@ -86,16 +86,16 @@ Jason Santa Maria, in a presentation at [Build 2011][] called [On Web Typography
 
 1.  Questions to ask yourself: What are you using it for? How will it be used? Under what conditions? From the slide "considerations":
 
-    > **Dimensions**
+    > **Dimensions** -
     > Are there requirements for how much text must fit in a given region?
 
     > **Special Features** - Do you require special features your typefaces
     > What features do you require? Multiple weights, lining &amp; old-style figures, small caps, etc?
 
-    > **Prolonged Reading**
+    > **Prolonged Reading** -
     > Is this a book or a long format periodical?
 
-    > **Internationalization**
+    > **Internationalization** -
     > Does a given font support all the special characters of the language to be used?
 
 2.  Readability and distinctness in characters matters. Will the typeface cause the reader to become confused, or tired of reading it?
