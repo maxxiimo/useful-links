@@ -1,8 +1,6 @@
 ## A Brief History of Web Font Sizes
 
-SUMMARY: Different articles from my archives over the last 12 years regarding web font sizes.
-
-Over the years I've referred to different articles when determining font size for projects I'm working on. Here they are in chronological order. A few are not so relevant today and some of them are exceptional! I'll let you be the judge of that, and have included them here as a reference.
+Over the years I've referred to different articles when determining font size for projects I'm working on. Here they are in chronological order. A few are not so relevant today, and some of them are exceptional! You can be the judge of that.
 
 1.  *05/11/01* - [CSS Design: Size Matters][BH1]
 
@@ -36,21 +34,19 @@ Over the years I've referred to different articles when determining font size fo
 
 16. *11/00/13* - [Which CSS Measurements To Use When][BH16]
 
-
-
-[BH1]:                  http://www.alistapart.com/articles/sizematters
-[BH2]:                  http://www.thenoodleincident.com/tutorials/box_lesson/font/index.html
-[BH3]:                  http://www.alistapart.com/articles/relafont
-[BH4]:                  http://clagnut.com/blog/348/
-[BH5]:                  http://webtypography.net/Harmony_and_Counterpoint/Size/3.1.1/
-[BH6]:                  http://www.alistapart.com/articles/settingtypeontheweb
-[BH7]:                  http://www.alistapart.com/articles/howtosizetextincss/
-[BH8]:                  http://kyleschaeffer.com/user-experience/css-font-size-em-vs-px-vs-pt-vs/
-[BH9]:                  http://snook.ca/archives/html_and_css/font-size-with-rem
-[BH10]:                 http://www.alistapart.com/articles/more-meaningful-typography/
-[BH11]:                 http://blog.8thlight.com/billy-whited/2011/10/28/r-a-ela-tional-design.html
-[BH12]:                 http://24ways.org/2011/composing-the-new-canon/
-[BH13]:                 http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/
-[BH14]:                 http://filamentgroup.com/lab/on_ems_and_rems/
-[BH15]:                 http://css-tricks.com/why-ems/
-[BH16]:                 http://demosthenes.info/blog/775/which-css-measurements-to-use-when#
+[BH1]:  http://www.alistapart.com/articles/sizematters
+[BH2]:  http://www.thenoodleincident.com/tutorials/box_lesson/font/index.html
+[BH3]:  http://www.alistapart.com/articles/relafont
+[BH4]:  http://clagnut.com/blog/348/
+[BH5]:  http://webtypography.net/Harmony_and_Counterpoint/Size/3.1.1/
+[BH6]:  http://www.alistapart.com/articles/settingtypeontheweb
+[BH7]:  http://www.alistapart.com/articles/howtosizetextincss/
+[BH8]:  http://kyleschaeffer.com/user-experience/css-font-size-em-vs-px-vs-pt-vs/
+[BH9]:  http://snook.ca/archives/html_and_css/font-size-with-rem
+[BH10]: http://www.alistapart.com/articles/more-meaningful-typography/
+[BH11]: http://blog.8thlight.com/billy-whited/2011/10/28/r-a-ela-tional-design.html
+[BH12]: http://24ways.org/2011/composing-the-new-canon/
+[BH13]: http://filamentgroup.com/lab/how_we_learned_to_leave_body_font_size_alone/
+[BH14]: http://filamentgroup.com/lab/on_ems_and_rems/
+[BH15]: http://css-tricks.com/why-ems/
+[BH16]: http://demosthenes.info/blog/775/which-css-measurements-to-use-when#

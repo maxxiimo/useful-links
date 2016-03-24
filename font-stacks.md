@@ -97,31 +97,26 @@ Here you will find recommendations for:
 
 #### Font Classifications and Definitions
 
-1.  *03/02/11* - [The Next Big Thing in Online Type][Online Type]
-
-    > Beginning in 2006, Microsoft says it will ship with its operating system and other software products six brand new typefaces created especially for extended on-screen reading.
-
-2.  [Typefaces, like most things, are made up of constituent parts.][Constituent Parts]
+1.  [Typefaces, like most things, are made up of constituent parts.][Constituent Parts]
 
     > Typefaces, like most things, are made up of constituent parts. It is the characteristics of these parts that gives typefaces their character.
 
-3.  [Font Factory][]
+2.  [Font Factory][]
 
     > Fonts fall into logical categories, e.g. Serif or Script etc. But within a category, there are many subtitles, so we have assigned each font a specific sub-category that best describes the unique elements of a font. Each of the primary categories below have further categories to explore.
 
-4.  [Type Classifications][Type Class]
+3.  [Type Classifications][Type Class]
 
     > Adobe typefaces are organized in the Type Classification pop-up menu according to a simplified version of the internationally recognized system adopted by the Association Typographique Internationale (ATypI).
 
-5.  [Typeface Classifications][Classifications]
+4.  [Typeface Classifications][Classifications]
 
     > Serif and Sans Serif. A serif is a small projection that finishes the end of a stroke of a letter. Sans is an early French term based on a Latin word that means without.
 
-6.  [What are the different categories for fonts?][Different Categories]
+5.  [What are the different categories for fonts?][Different Categories]
 
     > You can browse fonts in the following categories...
 
-[Online Type]:          http://www.poynter.org/how-tos/newsgathering-storytelling/visual-voice/32588/the-next-big-thing-in-online-type/
 [Constituent Parts]:    http://designingfortheweb.co.uk/book/part3/part3_chapter12.php
 [Font Factory]:         http://www.fontfactory.com/categories.php
 [Type Class]:           http://www.adobe.com/type/browser/classifications.html

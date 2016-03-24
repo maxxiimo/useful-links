@@ -46,6 +46,40 @@ The font services below are listed in alphabetical order, some are free and othe
 
 The tools I've listed, if needed, will help you deliver a superior typographic experience for your end-users.
 
+1.  [Ffffallback][]
+
+    > Web fonts are here, sparking an exciting new era in web design. Ffffallback makes it easy to find the perfect fallback fonts, so that your designs degrade gracefully.
+
+2.  [Modular Scale][]
+
+3.  [Relative \<font-size> calculator][Calculator]
+
+4.  [Soma FontFriend][FontFriend]
+
+    > Font­Friend is a book­marklet for typo­graph­i­cally obsessed web design­ers. It enables rapid check­ing of fonts and font styles directly in the browser with­out edit­ing code and refresh­ing pages...
+
+5.  [Type Scale][]
+
+    > A Visual Calculator
+
+6.  [Typetester][]
+
+    > The Typetester is an online application for comparison of the fonts for the screen.
+
+7.  [Web Font Specimen][]
+
+    > Real web type in real web context. Web Font Specimen is a handy, free resource web designers and type designers can use to see how typefaces will look on the web.
+
+[Ffffallback]:       http://ffffallback.com/
+[Modular Scale]:     http://modularscale.com/
+[Calculator]:        http://tools.the-echoplex.net/font-size/
+[FontFriend]:        http://somadesign.ca/projects/fontfriend/
+[Type Scale]:        http://type-scale.com/
+[Typetester]:        http://www.typetester.org/
+[Web Font Specimen]: http://webfontspecimen.com/
+
+#### JQuery
+
 1.  [Lettering.JS][]
 
     > A jQuery plugin for radical web typography - Web type is exploding all over the web but CSS currently doesn't offer complete down-to-the-letter control. So we created a jQuery plugin to give you that control.
@@ -54,44 +88,8 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
     > A jQuery plugin for inflating web type - FitText makes font-sizes flexible. Use this plugin on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.
 
-3.  [Ffffallback][]
-
-    > Web fonts are here, sparking an exciting new era in web design. Ffffallback makes it easy to find the perfect fallback fonts, so that your designs degrade gracefully.
-
-4.  [Font Stack Builder][]
-
-    > Use the Code Style font stack builder to create robust CSS font-family declarations. The font stack builder shows the probability that your preferred fonts are displayed on Windows, Mac and Linux Web browsers.
-
-5.  [Modular Scale][]
-
-6.  [Relative \<font-size> calculator][Calculator]
-
-7.  [Soma FontFriend][FontFriend]
-
-    > Font­Friend is a book­marklet for typo­graph­i­cally obsessed web design­ers. It enables rapid check­ing of fonts and font styles directly in the browser with­out edit­ing code and refresh­ing pages...
-
-8.  [Type Scale][]
-
-    > A Visual Calculator
-
-9.  [Typetester][]
-
-    > The Typetester is an online application for comparison of the fonts for the screen.
-
-10.  [Web Font Specimen][]
-
-    > Real web type in real web context. Web Font Specimen is a handy, free resource web designers and type designers can use to see how typefaces will look on the web.
-
-[Lettering.JS]:       http://letteringjs.com/
-[FitText.js]:         http://fittextjs.com/
-[Em Calculator]:      http://riddle.pl/emcalc/
-[Ffffallback]:        http://ffffallback.com/
-[Font Stack Builder]: http://www.codestyle.org/servlets/FontStack
-[Modular Scale]:      http://modularscale.com/
-[FontFriend]:         http://somadesign.ca/projects/fontfriend/
-[Type Scale]:         http://type-scale.com/
-[Typetester]:         http://www.typetester.org/
-[Web Font Specimen]:  http://webfontspecimen.com/
+[Lettering.JS]: http://letteringjs.com/
+[FitText.js]:   http://fittextjs.com/
 
 #### Generator
 
@@ -116,6 +114,6 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
     > PX to EM conversion made simple.
 
-[Calculator]:        http://tools.the-echoplex.net/font-size/
+[Em Calculator]:     http://riddle.pl/emcalc/
 [Page width in ems]: http://www.themaninblue.com/experiment/emWidths/
 [PXtoEM.com]:        http://pxtoem.com/
