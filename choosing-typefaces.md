@@ -114,8 +114,8 @@ Jason Santa Maria, in a presentation at [Build 2011][] called [On Web Typography
 
 9.  Try it out! Test out your ideas. See how it looks. See how it reads. See how it feels. In long-form text, in short-form text. Small columns, wide columns. Big text, small text. Doing this gives you a very real impression on how other people are going to see it.
 
-NOTE: This work is [copyrighted][].
+Jason Santa Maria's [copyright][].
 
 [Build 2011]:           http://2011.buildconf.com/
 [On Web Typography]:    http://vimeo.com/34178417
-[copyrighted]:          http://creativecommons.org/licenses/by-nc/3.0
+[copyright]:          http://creativecommons.org/licenses/by-nc/3.0
