@@ -6,33 +6,33 @@ Font services and tools to help you deliver a great typographic experience.
 
 The font services below are listed in alphabetical order, some are free and others subscription-based.
 
-1. [Font Squirrel][]
+- [Font Squirrel][]
 
-   > Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
+  > Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
 
-2. [Fontspring][]
+- [Fontspring][]
 
-   > Font Licensing Doesn’t Have To Suck - Fontspring is a unique font license distributor. Our goal is to make buying fonts easy.
+  > Font Licensing Doesn’t Have To Suck - Fontspring is a unique font license distributor. Our goal is to make buying fonts easy.
 
-3. [Google Web Fonts][]
+- [Google Web Fonts][]
 
-   > Google Web Fonts makes it quick and easy for everyone to use web fonts, including professional designers and developers. We believe that everyone should be able to bring quality typography to their web pages and applications.
+  > Google Web Fonts makes it quick and easy for everyone to use web fonts, including professional designers and developers. We believe that everyone should be able to bring quality typography to their web pages and applications.
 
-4. [MyFonts][]
+- [MyFonts][]
 
-   > Fonts for Print, Products & Screens.
+  > Fonts for Print, Products & Screens.
 
-5. [Typekit][]
+- [Typekit][]
 
-   > This will change the way you design websites. Add a line of code to your pages and choose from hundreds of web fonts. Simple, bulletproof, standards compliant, accessible, and totally legal.
+  > This will change the way you design websites. Add a line of code to your pages and choose from hundreds of web fonts. Simple, bulletproof, standards compliant, accessible, and totally legal.
 
-6. [Webtype][]
+- [Webtype][]
 
-   > Webtype provides fonts for the highest quality online typography, including typefaces which were designed from scratch specifically for onscreen reading.
+  > Webtype provides fonts for the highest quality online typography, including typefaces which were designed from scratch specifically for onscreen reading.
 
-7. [YouWorkForThem][]
+- [YouWorkForThem][]
 
-   > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
+  > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
 
 [Font Squirrel]:    http://www.fontsquirrel.com/
 [Fontspring]:       http://www.fontspring.com/
