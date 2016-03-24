@@ -2,7 +2,7 @@
 
 The following is designed to help you choose your typefaces. Some inspirational sites, articles, and an excellent transcript from a presentation by Jason Santa Maria.
 
-### Inspirational
+### Inspiration
 
 [Beautiful Web Type][]
 
