@@ -110,7 +110,7 @@ Em's
 
 -  [Page width in ems][]
 
--  PXtoEM.com][]
+-  [PXtoEM.com][]
 
    > PX to EM conversion made simple.
 
