@@ -78,7 +78,7 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 [Typetester]:        http://www.typetester.org/
 [Web Font Specimen]: http://webfontspecimen.com/
 
-#### JQuery
+JQuery
 
 1.  [Lettering.JS][]
 
@@ -91,7 +91,7 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 [Lettering.JS]: http://letteringjs.com/
 [FitText.js]:   http://fittextjs.com/
 
-#### Generator
+Generator
 
 1.  [Font2Web][]
 
@@ -102,7 +102,7 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 [Font2Web]:           http://www.font2web.com/
 [Web Font Generator]: https://www.web-font-generator.com/
 
-####  Em's
+Em's
 
 1.  [Em Calculator][]
 
