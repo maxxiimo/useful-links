@@ -43,17 +43,17 @@ The following is designed to help you choose your typefaces. Some inspirational 
 
 ### Choosing Typeface Articles
 
-12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
+*12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
 
-08/25/11* - [A Brief Primer on Typeface Selection][Brief Primer]
+*08/25/11* - [A Brief Primer on Typeface Selection][Brief Primer]
 
-12/01/11* - [6 Questions You Should Ask Yourself When Choosing Fonts][6 Questions]
+*12/01/11* - [6 Questions You Should Ask Yourself When Choosing Fonts][6 Questions]
 
-09/26/12* - [Make a Statement with Type][Type Statement]
+*09/26/12* - [Make a Statement with Type][Type Statement]
 
-05/14/14* - [10 Typekit Fonts Every Designer Should Sync to Their Desktop][10 Typekit Fonts]
+*05/14/14* - [10 Typekit Fonts Every Designer Should Sync to Their Desktop][10 Typekit Fonts]
 
-09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
+*09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
 
 [Five Principles]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
 [Brief Primer]: http://blog.8thlight.com/billy-whited/2011/08/25/a-brief-primer-on-typeface-selection.html
@@ -64,11 +64,11 @@ The following is designed to help you choose your typefaces. Some inspirational 
 
 #### Mobile
 
-10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
+*10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
 
 > Mobile typefaces have a lot in common with Goldilocks and the Three Bears. Everything needs to be just right. To look best on a small screen and be readable at a smaller size, the best font has the following 5 qualities...
 
-11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
+*11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
 
 > One of the emerging challenges for web designers is creating web typography that works in the mobile environment as well. But it can be difficult, and there are many things to consider. The keys are to focus on readability, contrast, space and responsiveness.
 
