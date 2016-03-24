@@ -1,5 +1,50 @@
 ## Font Combinations
 
+### Inspiration
+
+Here are some good places to go for inspiration on pairing fonts. This list is in alphabetical order.
+
+1.  [Font Pair][]
+
+    > Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+
+2.  [Font Pairings on Pinterest][Pinterest]
+
+    > Font Combinations, Google Fonts and Font Combos.
+
+3.  [Google Web Fonts Typographic Project][Google]
+
+    > There are over 650 Google Fonts available for free. But, pairing typefaces isn’t easy and many of those fonts don’t work for typical websites. Part of the 25x52 initiative, this collaborative, ongoing project offers inspiration for using Google’s font library.
+
+4.  [I Font You][]
+
+    > Find Great Font Combinations.
+
+5.  [Just My Type][]
+
+    > A collection of font pairings from Typekit and H&FJ.
+
+6.  [Typ.io][]
+
+    > Fonts that go together.
+
+7.  [Type Connection][]
+
+    > A typographic dating game.
+
+8.  [Type Genius][]
+
+    > Find the perfect font combo for your next project.
+
+[Font Pair]:       http://fontpair.co/
+[Pinterest]:       https://www.pinterest.com/explore/font-pairings/
+[Google]:          http://femmebot.github.io/google-type/
+[I Font You]:      http://ifontyou.com/
+[Just My Type]:    http://justmytype.co/
+[Typ.io]:          http://typ.io/
+[Type Connection]: http://www.typeconnection.com/
+[Type Genius]:     http://www.typegenius.com/
+
 ### How To
 
 1.  *03/10* - [Four Techniques for Combining Fonts][Four Techniques]
@@ -45,51 +90,6 @@
 
 [Combining Typefaces]:   http://www.fivesimplesteps.com/products/combining-typefaces
 [Big Book]: http://bonfx.com/the-big-book-of-font-combinations/
-
-### Inspiration
-
-Here are some good places to go for inspiration on pairing fonts. This list is in alphabetical order.
-
-1.  [Font Pair][]
-
-    > Helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
-
-2.  [Font Pairings on Pinterest][Pinterest]
-
-    > Font Combinations, Google Fonts and Font Combos.
-
-3.  [Google Web Fonts Typographic Project][Google]
-
-    > There are over 650 Google Fonts available for free. But, pairing typefaces isn’t easy and many of those fonts don’t work for typical websites. Part of the 25x52 initiative, this collaborative, ongoing project offers inspiration for using Google’s font library.
-
-4.  [I Font You][]
-
-    > Find Great Font Combinations.
-
-5.  [Just My Type][]
-
-    > A collection of font pairings from Typekit and H&FJ.
-
-6.  [Typ.io][]
-
-    > Fonts that go together.
-
-7.  [Type Connection][]
-
-    > A typographic dating game.
-
-8.  [Type Genius][]
-
-    > Find the perfect font combo for your next project.
-
-[Font Pair]:       http://fontpair.co/
-[Pinterest]:       https://www.pinterest.com/explore/font-pairings/
-[Google]:          http://femmebot.github.io/google-type/
-[I Font You]:      http://ifontyou.com/
-[Just My Type]:    http://justmytype.co/
-[Typ.io]:          http://typ.io/
-[Type Connection]: http://www.typeconnection.com/
-[Type Genius]:     http://www.typegenius.com/
 
 ### Examples
 
