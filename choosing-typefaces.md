@@ -4,29 +4,33 @@ The following is designed to help you choose your typefaces. Some inspirational 
 
 ### Inspiration
 
-- [Beautiful Web Type][]
+[Beautiful Web Type][]
 
-  > A showcase of the best typefaces from the Google web fonts directory.
+> A showcase of the best typefaces from the Google web fonts directory.
 
-- [Discover.typography by H&Co][H&Co]
+[Discover.typography by H&Co][H&Co]
 
-  > A showcase of the best typefaces from the Google web fonts directory.
+> A showcase of the best typefaces from the Google web fonts directory.
 
-- [Fonts In Use][]
+[Fonts In Use][]
 
-  > An independent archive of typography.
+> An independent archive of typography.
 
-- [Open Foundry][]
+[Open Foundry][]
 
-  > A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
+> A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
 
-- [Typekit Gallery][]
+[Typekit Gallery][]
 
-  > A collection of sites we like using fonts from Typekit.
+> A collection of sites we like using fonts from Typekit.
 
-- [Typewolfe][]
+[Typewolfe][]
 
-  > What's trending in type.
+> What's trending in type.
+
+[Web Design Ledger][] and [Webdesigner Depot][]
+
+> A search for "fonts" in 2 good designer resources.
 
 [Beautiful Web Type]: http://hellohappy.org/beautiful-web-type/
 [H&Co]: http://discover.typography.com/
@@ -34,29 +38,22 @@ The following is designed to help you choose your typefaces. Some inspirational 
 [Open Foundry]: http://open-foundry.com/hot30
 [Typekkit Gallery]: https://typekit.com/gallery
 [Typewolfe]: https://www.typewolf.com/
-
-**Typeface Examples**
-
-- [Web Design Ledger][]
-
-- [Webdesigner Depot][]
-
 [Web Design Ledger]: http://webdesignledger.com/?s=fonts
 [Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
 
 ### Choosing Typeface Articles
 
-- *12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
+12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
 
-- *08/25/11* - [A Brief Primer on Typeface Selection][Brief Primer]
+08/25/11* - [A Brief Primer on Typeface Selection][Brief Primer]
 
-- *12/01/11* - [6 Questions You Should Ask Yourself When Choosing Fonts][6 Questions]
+12/01/11* - [6 Questions You Should Ask Yourself When Choosing Fonts][6 Questions]
 
-- *09/26/12* - [Make a Statement with Type][Type Statement]
+09/26/12* - [Make a Statement with Type][Type Statement]
 
-- *05/14/14* - [10 Typekit Fonts Every Designer Should Sync to Their Desktop][10 Typekit Fonts]
+05/14/14* - [10 Typekit Fonts Every Designer Should Sync to Their Desktop][10 Typekit Fonts]
 
-- *09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
+09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
 
 [Five Principles]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
 [Brief Primer]: http://blog.8thlight.com/billy-whited/2011/08/25/a-brief-primer-on-typeface-selection.html
@@ -67,17 +64,17 @@ The following is designed to help you choose your typefaces. Some inspirational 
 
 #### Mobile
 
-- *10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
+10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
 
-  > Mobile typefaces have a lot in common with Goldilocks and the Three Bears. Everything needs to be just right. To look best on a small screen and be readable at a smaller size, the best font has the following 5 qualities...
+> Mobile typefaces have a lot in common with Goldilocks and the Three Bears. Everything needs to be just right. To look best on a small screen and be readable at a smaller size, the best font has the following 5 qualities...
 
-- *11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
+11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
 
-  > One of the emerging challenges for web designers is creating web typography that works in the mobile environment as well. But it can be difficult, and there are many things to consider. The keys are to focus on readability, contrast, space and responsiveness.
+> One of the emerging challenges for web designers is creating web typography that works in the mobile environment as well. But it can be difficult, and there are many things to consider. The keys are to focus on readability, contrast, space and responsiveness.
 
-- [iOS Fonts][]
+[iOS Fonts][]
 
-  > A Place for Happy Typography (includes links to Android and Windows Phone 7 default typography.)
+> A Place for Happy Typography (includes links to Android and Windows Phone 7 default typography.)
 
 [5 Tips]:            http://wixmobile.com/5-tips-for-excellent-mobile-typography
 [Mobile Typography]: http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/
