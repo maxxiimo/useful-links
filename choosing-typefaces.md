@@ -36,7 +36,7 @@ The following is designed to help you choose your typefaces. Some inspirational 
 [H&Co]: http://discover.typography.com/
 [Fonts In Use]: http://fontsinuse.com/
 [Open Foundry]: http://open-foundry.com/hot30
-[Typekkit Gallery]: https://typekit.com/gallery
+[Typekit Gallery]: https://typekit.com/gallery
 [Typewolfe]: https://www.typewolf.com/
 [Web Design Ledger]: http://webdesignledger.com/?s=fonts
 [Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
