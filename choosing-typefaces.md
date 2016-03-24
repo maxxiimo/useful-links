@@ -30,7 +30,7 @@ The following is designed to help you choose your typefaces. Some inspirational 
 
 [Web Design Ledger][] and [Webdesigner Depot][]
 
-> A search for "fonts" in 2 good designer resources.
+> A search for "fonts" results.
 
 [Beautiful Web Type]: http://hellohappy.org/beautiful-web-type/
 [H&Co]: http://discover.typography.com/
@@ -41,7 +41,7 @@ The following is designed to help you choose your typefaces. Some inspirational 
 [Web Design Ledger]: http://webdesignledger.com/?s=fonts
 [Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
 
-### Choosing Typeface Articles
+### Articles
 
 [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles] (12/14/10)
 
@@ -62,7 +62,7 @@ The following is designed to help you choose your typefaces. Some inspirational 
 [10 Typekit Fonts]: http://justinseeley.com/showcases/10-typekit-fonts-every-designer-sync-desktop/
 [Selecting Typefaces]: http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/
 
-#### Mobile
+**Mobile**
 
 [5 Tips for Excellent Mobile Typography][5 Tips] (10/02/11)
 
