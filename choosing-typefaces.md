@@ -1,24 +1,50 @@
 ## Choosing Typefaces
 
-SUMMARY: Choosing typeface articles and grear advice from Jason Santa Maria on choosing typefaces.
+The following is designed to help you choose your typefaces. Some inspirational sites, articles, and an excellent transcript from a presentation by Jason Santa Maria.
 
-The following is designed to help you choose your typefaces. Here are some articles, and an excellent transcript from a presentation by Jason Santa Maria.
+### Inspirational
 
-Inspirational:
+[Beautiful Web Type][]
+
+> A showcase of the best typefaces from the Google web fonts directory.
+
+[Discover.typography by H&Co][H&Co]
+
+> A showcase of the best typefaces from the Google web fonts directory.
+
+[Fonts In Use][]
+
+> An independent archive of typography.
 
 [Open Foundry][]
 
 > A new platform for open-source fonts in a noise-free environment; to highlight their beauty and encourage further exploration.
 
-[Open Foundry]: http://open-foundry.com/hot30
+[Typekit Gallery][]
+
+> A collection of sites we like using fonts from Typekit.
 
 [Typewolfe][]
 
 > What's trending in type.
 
+[Beautiful Web Type]: http://hellohappy.org/beautiful-web-type/
+[H&Co]: http://discover.typography.com/
+[Fonts In Use]: http://fontsinuse.com/
+[Open Foundry]: http://open-foundry.com/hot30
+[Typekkit Gallery]: https://typekit.com/gallery
 [Typewolfe]: https://www.typewolf.com/
 
-#### Choosing Typeface Articles
+#### Typeface Examples
+
+[Web Design Ledger][] search for "fonts"
+
+[Webdesigner Depot][] search for "fonts"
+
+[Web Design Ledger]: http://webdesignledger.com/?s=fonts
+[Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
+
+### Choosing Typeface Articles
 
 1.  *12/14/10* - [“What Font Should I Use?”: Five Principles for Choosing and Using Typefaces][Five Principles]
 
@@ -28,29 +54,36 @@ Inspirational:
 
 4.  *09/26/12* - [Make a Statement with Type][Type Statement]
 
-5.  *09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
+5.  *05/14/14* - [10 Typekit Fonts Every Designer Should Sync to Their Desktop][10 Typekit Fonts]
 
+6.  *09/04/14* - [Selecting TYPEFACES for body text][Selecting Typefaces]
+
+[Five Principles]: http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
+[Brief Primer]: http://blog.8thlight.com/billy-whited/2011/08/25/a-brief-primer-on-typeface-selection.html
+[6 Questions]: http://tympanus.net/codrops/2011/12/01/6-questions-you-should-ask-yourself-when-choosing-fonts/
+[Type Statement]: http://tympanus.net/codrops/2012/09/26/make-a-statement-with-type/
+[10 Typekit Fonts]: http://justinseeley.com/showcases/10-typekit-fonts-every-designer-sync-desktop/
 [Selecting Typefaces]: http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/
 
-Mobile
+#### Mobile
 
 1.  *10/02/11* - [5 Tips for Excellent Mobile Typography][5 Tips]
 
+    > Mobile typefaces have a lot in common with Goldilocks and the Three Bears. Everything needs to be just right. To look best on a small screen and be readable at a smaller size, the best font has the following 5 qualities...
+
 2.  *11/12/12* - [Mobile Design Typography is Vitally Important ... and Challenging][Mobile typography]
 
-#### Typeface Examples
+    > One of the emerging challenges for web designers is creating web typography that works in the mobile environment as well. But it can be difficult, and there are many things to consider. The keys are to focus on readability, contrast, space and responsiveness.
 
-1.  [Web Design Ledger] search for "fonts"
+3.  [iOS Fonts][]
 
-[Web Design Ledger]: http://webdesignledger.com/?s=fonts
+    > A Place for Happy Typography (includes links to Android and Windows Phone 7 default typography.)
 
-2.  [Webdesigner Depot][] search for "fonts"
+[5 Tips]:            http://wixmobile.com/5-tips-for-excellent-mobile-typography
+[Mobile Typography]: http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/
+[iOS Fonts]:         http://iosfonts.com/
 
-[Webdesigner Depot]: http://www.webdesignerdepot.com/?s=fonts
-
-
-
-#### Jason Santa Maria On Web Typography
+### Jason Santa Maria On Web Typography
 
 Jason Santa Maria, in a presentation at [Build 2011][] called [On Web Typography][] spoke about picking typefaces. I've transcribed it here in part and slightly paraphrased:
 
@@ -62,12 +95,11 @@ Jason Santa Maria, in a presentation at [Build 2011][] called [On Web Typography
     > **Special Features** - Do you require special features your typefaces
     > What features do you require? Multiple weights, lining &amp; old-style figures, small caps, etc?
 
-    > **Prolonged Reading** -
+    > **Prolonged Reading**
     > Is this a book or a long format periodical?
 
-    > **Internationalization** -
+    > **Internationalization**
     > Does a given font support all the special characters of the language to be used?
-
 
 2.  Readability and distinctness in characters matters. Will the typeface cause the reader to become confused, or tired of reading it?
 
@@ -86,16 +118,6 @@ Jason Santa Maria, in a presentation at [Build 2011][] called [On Web Typography
 9.  Try it out! Test out your ideas. See how it looks. See how it reads. See how it feels. In long-form text, in short-form text. Small columns, wide columns. Big text, small text. Doing this gives you a very real impression on how other people are going to see it.
 
 NOTE: This work is [copyrighted][].
-
-
-
-[Five Principles]:      http://www.smashingmagazine.com/2010/12/14/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
-[Brief Primer]:         http://blog.8thlight.com/billy-whited/2011/08/25/a-brief-primer-on-typeface-selection.html
-[Type Statement]:       http://tympanus.net/codrops/2012/09/26/make-a-statement-with-type/
-[6 Questions]:          http://tympanus.net/codrops/2011/12/01/6-questions-you-should-ask-yourself-when-choosing-fonts/
-
-[5 Tips]:               http://wixmobile.com/5-tips-for-excellent-mobile-typography
-[Mobile Typography]:    http://tympanus.net/codrops/2012/11/12/mobile-design-typography-is-vitally-important-and-challenging/
 
 [Build 2011]:           http://2011.buildconf.com/
 [On Web Typography]:    http://vimeo.com/34178417

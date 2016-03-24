@@ -26,9 +26,21 @@ The font services below are listed in alphabetical order, some are free and othe
 
    > This will change the way you design websites. Add a line of code to your pages and choose from hundreds of web fonts. Simple, bulletproof, standards compliant, accessible, and totally legal.
 
-6. [YouWorkForThem][]
+6. [Webtype][]
+
+   > Webtype provides fonts for the highest quality online typography, including typefaces which were designed from scratch specifically for onscreen reading.
+
+7. [YouWorkForThem][]
 
    > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
+
+[Font Squirrel]:    http://www.fontsquirrel.com/
+[Fontspring]:       http://www.fontspring.com/
+[Google Web Fonts]: http://www.google.com/webfonts#
+[MyFonts]:          http://fontdeck.com/
+[Typekit]:          https://typekit.com/
+[Webtype]:          http://www.webtype.com/
+[YouWorkForThem]:   https://www.youworkforthem.com/
 
 ### Tools
 
@@ -70,6 +82,17 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
     > Real web type in real web context. Web Font Specimen is a handy, free resource web designers and type designers can use to see how typefaces will look on the web.
 
+[Lettering.JS]:       http://letteringjs.com/
+[FitText.js]:         http://fittextjs.com/
+[Em Calculator]:      http://riddle.pl/emcalc/
+[Ffffallback]:        http://ffffallback.com/
+[Font Stack Builder]: http://www.codestyle.org/servlets/FontStack
+[Modular Scale]:      http://modularscale.com/
+[FontFriend]:         http://somadesign.ca/projects/fontfriend/
+[Type Scale]:         http://type-scale.com/
+[Typetester]:         http://www.typetester.org/
+[Web Font Specimen]:  http://webfontspecimen.com/
+
 #### Generator
 
 1.  [Font2Web][]
@@ -77,6 +100,9 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
     > This little tool converts any .ttf (TrueType Font) or .otf (OpenType Font) file to .ttf, .otf, .eot, .woff and .svg files. It also creates a CSS file and a demo HTML file to show you how to use webfonts on your website - using CSS @font-face.
 
 2.  [Web Font Generator][]
+
+[Font2Web]:           http://www.font2web.com/
+[Web Font Generator]: https://www.web-font-generator.com/
 
 ####  Em's
 
@@ -90,29 +116,6 @@ The tools I've listed, if needed, will help you deliver a superior typographic e
 
     > PX to EM conversion made simple.
 
-
-
-[Font Squirrel]:        http://www.fontsquirrel.com/
-[Fontspring]:           http://www.fontspring.com/
-[Google Web Fonts]:     http://www.google.com/webfonts#
-[MyFonts]:              http://fontdeck.com/
-[Typekit]:              https://typekit.com/
-[YouWorkForThem]:       https://www.youworkforthem.com/
-
-[Lettering.JS]:         http://letteringjs.com/
-[FitText.js]:           http://fittextjs.com/
-[Em Calculator]:        http://riddle.pl/emcalc/
-[Ffffallback]:          http://ffffallback.com/
-[Font Stack Builder]:   http://www.codestyle.org/servlets/FontStack
-[Modular Scale]:        http://modularscale.com/
-[FontFriend]:           http://somadesign.ca/projects/fontfriend/
-[Type Scale]:           http://type-scale.com/
-[Typetester]:           http://www.typetester.org/
-[Web Font Specimen]:    http://webfontspecimen.com/
-
-[Font2Web]:             http://www.font2web.com/
-[Web Font Generator]:   https://www.web-font-generator.com/
-
-[Calculator]:           http://tools.the-echoplex.net/font-size/
-[Page width in ems]:    http://www.themaninblue.com/experiment/emWidths/
-[PXtoEM.com]:           http://pxtoem.com/
+[Calculator]:        http://tools.the-echoplex.net/font-size/
+[Page width in ems]: http://www.themaninblue.com/experiment/emWidths/
+[PXtoEM.com]:        http://pxtoem.com/
