@@ -1,8 +1,8 @@
 ## Font Combinations
 
-### Inspiration
+Here are some good places to go for inspiration on pairing fonts, articles on how to pair fonts, and some sources for examples of paired fonts. All lists are in alphabetical order.
 
-Here are some good places to go for inspiration on pairing fonts. This list is in alphabetical order.
+### Inspiration
 
 [Font Pair][]
 
