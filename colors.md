@@ -178,11 +178,16 @@ SUMMARY: A roundup of different color tools, color wheels, image to color palett
 
     > Adobe Kuler is a web-hosted application for generating color themes that can inspire any project. No matter what you're creating, with Kuler you can experiment quickly with color variations and browse thousands of themes from the Kuler community.
 
+6.  [Random Color Palettes][Random]
+
+    > Generate random color palettes.
+
 [COLRD]:                http://colrd.com/
 [ColoRotate]:           http://web.colorotate.org/
 [COLOURlovers]:         http://www.colourlovers.com/
 [colr.org]:             http://www.colr.org/
 [Kuler]:                https://kuler.adobe.com/explore/
+[Random]:               http://www.randomcolorpalettes.com/
 
 ### Collections
 
