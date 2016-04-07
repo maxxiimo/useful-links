@@ -1,6 +1,6 @@
 ## Color Tools, Wheels, Generators, Palettes and Collections
 
-SUMMARY: A roundup of different color tools, color wheels, image to color palette generators, community color palettes, and color collections.
+A roundup of different color tools, color wheels, image to color palette generators, community color palettes, and color collections.
 
 ### Color Tools
 
