@@ -6,6 +6,10 @@ Font services to help you deliver a great typographic experience. Services are l
 
   > Free fonts have met their match. We know how hard it is to find quality freeware that is licensed for commercial work. We've done the hard work, hand-selecting these typefaces and presenting them in an easy-to-use format.
 
+- [fonts.com][]
+
+  > The Complete Web Fonts Solution - Choose from thousands of Web & desktop fonts in a single, simple subscription.
+
 - [Fontspring][]
 
   > Font Licensing Doesn’t Have To Suck - Fontspring is a unique font license distributor. Our goal is to make buying fonts easy.
@@ -14,13 +18,19 @@ Font services to help you deliver a great typographic experience. Services are l
 
   > Google Web Fonts makes it quick and easy for everyone to use web fonts, including professional designers and developers. We believe that everyone should be able to bring quality typography to their web pages and applications.
 
-- [MyFonts][]
+- [Typecast][]
 
-  > Fonts for Print, Products & Screens.
+  > Use Typecast to create visual and semantic designs. Check for readability, rendering and beauty then share a working prototype of your design.
 
 - [Typekit][]
 
   > This will change the way you design websites. Add a line of code to your pages and choose from hundreds of web fonts. Simple, bulletproof, standards compliant, accessible, and totally legal.
+
+Purchasing only:
+
+- [MyFonts][]
+
+  > Fonts for Print, Products & Screens.
 
 - [Webtype][]
 
@@ -31,9 +41,12 @@ Font services to help you deliver a great typographic experience. Services are l
   > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
 
 [Font Squirrel]:    http://www.fontsquirrel.com/
+[fonts.com]:        http://www.fonts.com/web-fonts
 [Fontspring]:       http://www.fontspring.com/
 [Google Web Fonts]: http://www.google.com/webfonts#
-[MyFonts]:          http://fontdeck.com/
+[Typecast]:         http://typecast.com/
 [Typekit]:          https://typekit.com/
+
+[MyFonts]:          http://fontdeck.com/
 [Webtype]:          http://www.webtype.com/
 [YouWorkForThem]:   https://www.youworkforthem.com/
