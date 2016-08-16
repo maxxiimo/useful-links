@@ -44,33 +44,29 @@ A roundup of different color tools, color wheels, image to color palette generat
 
   > Create Color Schemes, Test Color Combinations
 
-12. [ColorTo.me][]
-
-    > Create an image, share a pallet.
-
-13. [colourco][]
+12. [colourco][]
 
     > Find your colour scheme.
 
-14. [Contrast Ratio][]
+13. [Contrast Ratio][]
 
     > Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
-15. [Contrast-A][]
+14. [Contrast-A][]
 
     > Contrast-A checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).
 
-16. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
+15. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
 
     > The website color extraction tool is used to grab colors from a website.
 
-17. [Infohound Color Schemer][Infohound]
+16. [Infohound Color Schemer][Infohound]
 
     > This color schemer is a simple tool to help you experiment with various color schemes for your next web or print project.
 
-18. [Material UI Colors][Material]
+17. [Material UI Colors][Material]
 
-19. [Mother-effing hsl][]
+18. [Mother-effing hsl][]
 
 [0to255]:               http://0to255.com/
 [Color Blender]:        http://meyerweb.com/eric/tools/color-blend/

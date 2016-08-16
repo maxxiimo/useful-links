@@ -10,9 +10,17 @@ Font services to help you deliver a great typographic experience. Services are l
 
   > The Complete Web Fonts Solution - Choose from thousands of Web & desktop fonts in a single, simple subscription.
 
+- [fontsgeek][]
+
+  > Download thousands of high quality fonts for free.
+
 - [Fontspring][]
 
   > Font Licensing Doesn’t Have To Suck - Fontspring is a unique font license distributor. Our goal is to make buying fonts easy.
+
+- [Fontsup.com][]
+
+  > Search and download cool fonts for free.
 
 - [Google Web Fonts][]
 
@@ -40,12 +48,14 @@ Purchasing only:
 
   > YouWorkForThem has been designing and providing fonts for decades, and we currently provide 41,056 fonts from hundreds of different font foundries.
 
-[Font Squirrel]:    http://www.fontsquirrel.com/
+[Font Squirrel]:    http://www.fontsquirrel.com
 [fonts.com]:        http://www.fonts.com/web-fonts
-[Fontspring]:       http://www.fontspring.com/
+[fontsgeek]:        http://www.fontsgeek.com
+[Fontspring]:       http://www.fontspring.com
+[Fontsup.com]:      http://www.Fontsup.com
 [Google Web Fonts]: http://www.google.com/webfonts#
-[Typecast]:         http://typecast.com/
-[Typekit]:          https://typekit.com/
+[Typecast]:         http://typecast.com
+[Typekit]:          https://typekit.com
 
 [MyFonts]:          http://fontdeck.com/
 [Webtype]:          http://www.webtype.com/
