@@ -44,29 +44,33 @@ A roundup of different color tools, color wheels, image to color palette generat
 
   > Create Color Schemes, Test Color Combinations
 
-12. [colourco][]
+12. [colourcode][]
 
     > Find your colour scheme.
 
-13. [Contrast Ratio][]
+13. [Coolors][]
+
+    > The super fast color schemes generator! Create, save and share perfect palettes in seconds!
+
+14. [Contrast Ratio][]
 
     > Easily calculate color contrast ratios. Passing WCAG was never this easy!
 
-14. [Contrast-A][]
+15. [Contrast-A][]
 
     > Contrast-A checks color combinations for sufficient contrast and displays the results according to WCAG 2.0 (Luminance Ratio) as well as the results according to older accessibility guidelines, WCAG 1.0 (Difference in Brightness and Color).
 
-15. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
+16. [Grab Website Colors - Color Scheme Extraction Tool][Grab Colors]
 
     > The website color extraction tool is used to grab colors from a website.
 
-16. [Infohound Color Schemer][Infohound]
+17. [Infohound Color Schemer][Infohound]
 
     > This color schemer is a simple tool to help you experiment with various color schemes for your next web or print project.
 
-17. [Material UI Colors][Material]
+18. [Material UI Colors][Material]
 
-18. [Mother-effing hsl][]
+19. [Mother-effing hsl][]
 
 [0to255]:               http://0to255.com/
 [Color Blender]:        http://meyerweb.com/eric/tools/color-blend/
@@ -80,7 +84,8 @@ A roundup of different color tools, color wheels, image to color palette generat
 [Color Schemer]:        http://www.colorschemer.com/online.html
 [Colorspire]:           http://www.colorspire.com/
 [ColorTo.me]:           http://colorto.me/
-[colourco]:             http://colourco.de/
+[colourcode]:           http://colourco.de/
+[Coolors]:              https://coolors.co/
 [Contrast Ratio]:       http://leaverou.github.io/contrast-ratio/
 [Contrast-A]:           http://www.dasplankton.de/ContrastA/
 [Grab Colors]:          http://www.colorcombos.com/grabcolors.html
